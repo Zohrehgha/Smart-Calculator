@@ -1,0 +1,48 @@
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\bin\Debug\SmartCalc.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Form1.resources
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.exe
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.xml
+c:\users\administrator\documents\visual studio 2017\Projects\SmartCalc\SmartCalc\obj\Debug\SmartCalc.pdb
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe.config
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\bin\Debug\SmartCalc.pdb
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\bin\Debug\SmartCalc.xml
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbprojResolveAssemblyReference.cache
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Form1.resources
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Resources.resources
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.GenerateResource.Cache
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.CoreCompileInputs.cache
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.exe
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.xml
+C:\ITD\Term 3\Visual Basic.Net\class\SmartCalc\SmartCalc\obj\Debug\SmartCalc.pdb
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe.config
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\bin\Debug\SmartCalc.pdb
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\bin\Debug\SmartCalc.xml
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbprojResolveAssemblyReference.cache
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Form1.resources
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Resources.resources
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.GenerateResource.Cache
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.exe
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.xml
+C:\Users\Azar\Documents\Visual Studio 2017\Backup Files\SmartCalc\SmartCalc\obj\Debug\SmartCalc.pdb
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe.config
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\bin\Debug\SmartCalc.exe
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\bin\Debug\SmartCalc.pdb
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\bin\Debug\SmartCalc.xml
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbprojResolveAssemblyReference.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Form1.resources
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.Resources.resources
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.GenerateResource.Cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.vbproj.CoreCompileInputs.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.exe
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.xml
+C:\ITD\Term 3\Visual Basic.Net\assignment\assignment 1\SmartCalc\SmartCalc\obj\Debug\SmartCalc.pdb
